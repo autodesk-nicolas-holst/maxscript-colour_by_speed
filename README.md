@@ -13,4 +13,4 @@ a table a speeds:
 * at speed 0 the colour is black
 * at speed 20 the colour is green
 * at speed 30 the colour is orange
-* anything about 50 is red
+* anything above 50 is red
